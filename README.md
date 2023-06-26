@@ -18,3 +18,4 @@
 **My repositories**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheBlindM&repo=T-Shell)](https://github.com/TheBlindM/T-Shell)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheBlindM&repo=CK-567)](https://github.com/TheBlindM/CK-567)
